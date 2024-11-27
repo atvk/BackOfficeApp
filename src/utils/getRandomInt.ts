@@ -1,0 +1,1 @@
+export const getRandomInt = () => Math.random() * (10000 - 1) + 1;
